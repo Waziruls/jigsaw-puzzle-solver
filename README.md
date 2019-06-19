@@ -7,3 +7,4 @@ A semi-automatic jigsaw puzzle solver from a image of the scattered pieces
   Parameters:
     python main.py {Puzzle height} {Puzzle width} {Mode} {Jump size} {Max alternatives difference} {Inpaint kernel} {Max resolution}
     
+dasd
