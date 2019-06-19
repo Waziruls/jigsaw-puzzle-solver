@@ -12,10 +12,15 @@ Press 'c' to continue afer adjusting chroma and corners.
     Heigth and width of the puzzle in number of pieces. Doesn't matter the order.
     
   Mode (OPTIONAL, default: 0):
+  
      0 - Normal mode + reduced output
+     
      1 - Normal mode + complete output
+     
      2 - Normal mode + complete output + resolution animation
+     
      3 - Step mode + complete output (Step mode will ask you if you want to continue searching for a better solution each time one is found).
+     
      Step mode is recommended if the puzzle have more than 30 pieces and you don't want to increase jump size.
      
   Jump size (OPTIONAL, default: 1):
