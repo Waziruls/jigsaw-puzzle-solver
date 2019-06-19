@@ -9,6 +9,7 @@ Press 'c' to continue afer adjusting chroma and corners.
     python main.py {Puzzle height} {Puzzle width} {Mode} {Jump size} {Max alternatives difference} {Inpaint kernel} {Max resolution}
     
   **Puzzle height** and **Puzzle width**:
+  
     Heigth and width of the puzzle in number of pieces. Doesn't matter the order.
     
   **Mode** (OPTIONAL, default: 0):
