@@ -108,7 +108,7 @@ if len(args) >= 5:
     else:
         error = True
 else:
-    alt_max_value = 175
+    alt_max_value = 125
 
 if len(args) >= 6:
     if args[5].isdigit() and int(args[5]) > 0:
