@@ -5,4 +5,4 @@ A semi-automatic jigsaw puzzle solver from a image of the scattered pieces
   Press 'c' to continue afer adjusting chroma and corners.
   
   Parameters:
-    python main.py <asdas>
+    python main.py {asdas}
